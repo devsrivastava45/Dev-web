@@ -44,8 +44,9 @@
     <meta property="og:url"
         content="https://devsrivastava45.github.io/Dev-web/">
 
-    <meta property="og:image"
-        content="https://devsrivastava45.github.io/Dev-web/images/mypic.jpg">
+    <meta property="og:image" content="https://devsrivastava45.github.io/Dev-web/mypic.jpg">
+
+<link rel="icon" type="image/jpeg" href="mypic.jpg">
 
     <!-- ================= THEME ================= -->
 
@@ -54,7 +55,7 @@
     <!-- Favicon -->
     <link rel="icon"
         type="image/jpeg"
-        href="images/mypic.jpg">
+        href="mypic.jpg">
 
     <!-- CSS -->
     <link rel="stylesheet"
@@ -135,8 +136,8 @@
     <header class="hero animate">
 
         <img
-            src="images/mypic.jpg"
-            alt="Dev Srivastava - Young Web Developer from India"
+            src="mypic.jpg"
+            alt="Dev Srivastava - from India, Founder of DSX Production"
             class="profile-pic">
 
 
@@ -153,7 +154,7 @@
 
 
         <h2>
-            Building Clean Websites starting at <span>₹99</span>
+            Building Clean Websites starting at <span>₹49</span>
         </h2>
 
 
@@ -400,7 +401,7 @@
             <div class="card project-card">
 
                 <img
-                    src="images/project1.jpg"
+                    src="project1.jpg"
                     alt="BDS Public School Website Project by Dev Srivastava">
 
                 <h3>
@@ -413,7 +414,7 @@
             <div class="card project-card">
 
                 <img
-                    src="images/project2.jpg"
+                    src="project2.jpg"
                     alt="E-Commerce Website Project by Dev Srivastava">
 
                 <h3>
@@ -426,7 +427,7 @@
             <div class="card project-card">
 
                 <img
-                    src="images/hero.jpg"
+                    src="hero.jpg"
                     alt="Modern UI Design by Dev Srivastava">
 
                 <h3>
@@ -439,7 +440,7 @@
             <div class="card project-card">
 
                 <img
-                    src="images/style.jpg"
+                    src="style.jpg"
                     alt="Modern Website Styling by DSX Production">
 
                 <h3>
@@ -452,7 +453,7 @@
             <div class="card project-card">
 
                 <img
-                    src="images/profile.jpg"
+                    src="profile.jpg"
                     alt="Personal Brand Website by Dev Srivastava">
 
                 <h3>
@@ -494,7 +495,7 @@
             <div class="review-card">
 
                 <p>
-                    “No.1 school website in just 4,999Rs 🔥👍💯”
+                    “No.1 school website in just 999Rs 🔥👍💯”
                 </p>
 
                 <b>
@@ -559,7 +560,7 @@
 
 
         <form
-            action="https://formsubmit.co"
+            action="https://formsubmit.co/dsxproduction45@gmail.com"
             method="POST">
 
 
@@ -638,7 +639,7 @@
 
     <a
         class="whatsapp-float"
-        href="https://wa.me">
+        href="https://wa.me/918368283753">
 
         💬
 
