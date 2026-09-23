@@ -107,3 +107,23 @@ input, textarea { padding: 12px; border-radius: 8px; border: 1px solid #334155; 
 #loader { position: fixed; inset: 0; background: #0f172a; display: flex; flex-direction: column; align-items: center; justify-content: center; z-index: 9999; }
 .spinner { width: 40px; height: 40px; border: 4px solid #38bdf8; border-top-color: transparent; border-radius: 50%; animation: spin 1s linear infinite; }
 @keyframes spin { to { transform: rotate(360deg); } }
+
+.project-link-container {
+    text-align: center;
+    margin-top: 20px; /* बटन्स से दूरी बनाने के लिए */
+    margin-bottom: 20px; /* नीचे वाले सेक्शन से दूरी बनाने के लिए */
+}
+
+.project-link {
+    color: #38bdf8; /* आपकी थीम से मैच करता हुआ लाइट ब्लू कलर (आप चाहें तो बदल सकते हैं) */
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: 500;
+    transition: color 0.3s ease;
+}
+
+.project-link:hover {
+    color: #ffffff; /* माउस ले जाने पर लिंक सफेद हो जाएगा */
+    text-decoration: underline; /* नीचे एक लाइन आ जाएगी */
+                                                                                                                                                                                                                                                                                                }
+                 
